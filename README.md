@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Janot</h1>
-<h3 align="center">Apaixonado pela área de tecnologia em Uberlândia-MG</h3>
+<h3 align="center">Passionate about technology in Uberlândia-MG</h3>
 
 - 🌱 I’m currently learning **Java and haskell**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
