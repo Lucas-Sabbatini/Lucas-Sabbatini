@@ -7,5 +7,11 @@
 
 - I am driven by a desire to grow both professionally and personally in the field of computing, and I am eager to contribute my skills and knowledge to impactful projects that push the boundaries of technology.
 
+
+
+  
+<h3 align="center">Technical Knowledge</h3>
+<div>
 ![Lucas-Sabbatini's Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Sabbatini&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![Lucas-Sabbatini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sabbatini&theme=dark&show_icons=true&hide_border=false&layout=compact)
+</div>
