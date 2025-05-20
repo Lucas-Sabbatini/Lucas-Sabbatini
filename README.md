@@ -17,13 +17,13 @@
 
 ### Passionate about technology in Uberlândia-MG</h3>
 
-- Computer Science major student in the [Federal University of Uberlândia](https://ufu.br/).
+- Computer Science major student at the [Federal University of Uberlândia](https://ufu.br/).
   
-- Currently AWS Cloud Data Engineering Intern in [Compass UOL](https://compass.uol/en/home/).
+- Currently an AWS Cloud Data Engineering Intern in [Compass UOL](https://compass.uol/en/home/).
 
-- Took part in [ASCII Junior Enterprise](https://asciiej.com.br) as Project Diretctor, leading talented teams.
+- Took part in [ASCII Junior Enterprise](https://asciiej.com.br) as Project Director, leading talented teams.
 
-- Back-end developer with a big enthusiast about Machine Learning and Cybersecurity.
+- Back-end developer enthusiastic about Machine Learning and Cybersecurity.
 
 [![Lucas-Sabbatini](https://github-readme-stats.vercel.app/api?username=Lucas-Sabbatini&theme=default)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
 [![Lucas-Sabbatini](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sabbatini&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
