@@ -25,8 +25,8 @@
 
 - Back-end developer enthusiastic about Machine Learning and Cybersecurity.
 
-[![Lucas-Sabbatini](https://github-readme-stats.vercel.app/api?username=Lucas-Sabbatini&theme=default)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
-[![Lucas-Sabbatini](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sabbatini&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas-Sabbatini's Stats](https://github-readme-stats.vercel.app/api?username=Lucas-Sabbatini&theme=default&show_icons=true&hide_border=false&count_private=true)
+![Lucas-Sabbatini's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Sabbatini&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 <div align="center">
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
