@@ -19,7 +19,7 @@
 
 - Computer Science major student at the [Federal University of Uberlândia](https://ufu.br/).
   
-- Currently an AWS Cloud Data Engineering Intern in [Compass UOL](https://compass.uol/en/home/).
+- Currently an Software Engineer at [Levty](https://www.levty.com/en).
 
 - Took part in [ASCII Junior Enterprise](https://asciiej.com.br) as Project Director, leading talented teams.
 
