@@ -23,7 +23,7 @@
 
 - Took part in [ASCII Junior Enterprise](https://asciiej.com.br) as Project Director, leading talented teams.
 
-- Back-end developer enthusiastic about Machine Learning and Cybersecurity.
+- Back-end developer enthusiastic about Machine Learning.
 
 
 <div align="center">
