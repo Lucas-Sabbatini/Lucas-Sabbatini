@@ -24,13 +24,8 @@
 - Took part in [ASCII Junior Enterprise](https://asciiej.com.br) as Project Director, leading talented teams.
 
 - Back-end developer enthusiastic about Machine Learning.
-
-
 <div align="center">
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</div>   
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,react,postgres,python,aws)](https://skillicons.dev)
+
+</div>
