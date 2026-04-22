@@ -26,6 +26,6 @@
 - Back-end developer enthusiastic about Machine Learning.
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,react,postgres,python,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,react,postgres,python,aws,pytorch)](https://skillicons.dev)
 
 </div>
