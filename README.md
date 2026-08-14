@@ -15,7 +15,7 @@
 </pre>
 </div>
 
-### Passionate about technology in Uberlândia-MG</h3>
+### Passionate about technology in Goiânia-GO</h3>
 
 - Computer Science major at the [Federal University of Uberlândia](https://ufu.br/).
   
